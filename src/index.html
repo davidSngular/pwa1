@@ -5,10 +5,24 @@
   <title>Pwa1</title>
   <base href="/">
 
+  <meta name="theme-color" content="#317EFB"/>
+  <link rel="manifest" href="manifest.json">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+
 </head>
-<body>
-  <app-root></app-root>
+<body style="margin:0">
+<app-root>
+  <nav style="background-color: #317EFB; height: 56px; width: 100%">
+  </nav>
+
+  <div id="spinner">spinner</div>
+</app-root>
+<noscript>
+  <h3 style="color: #317EFB; font-family: Helvetica; margin: 2rem;">
+    Sorry, but app is not available without javascript
+  </h3>
+</noscript>
 </body>
 </html>
