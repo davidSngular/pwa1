@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "https://davidSngular.github.io/pwa1/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://davidSngular.github.io/pwa1/favicon.ico",
+        "https://davidSngular.github.io/pwa1/index.html",
+        "https://davidSngular.github.io/pwa1/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://davidSngular.github.io/pwa1/main.f9f28085b8202da0d8f7.bundle.js",
+        "https://davidSngular.github.io/pwa1/polyfills.515ed9df1f4876ab6cb6.bundle.js",
+        "https://davidSngular.github.io/pwa1/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://davidSngular.github.io/pwa1/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://davidSngular.github.io/pwa1/main.f9f28085b8202da0d8f7.bundle.js": "a47625180ec0625f39da4d173ff2344ea506fd5b",
+    "https://davidSngular.github.io/pwa1/polyfills.515ed9df1f4876ab6cb6.bundle.js": "6ebdefc4109733be272a80dfeb6d48a9ace11267",
+    "https://davidSngular.github.io/pwa1/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://davidSngular.github.io/pwa1/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://davidSngular.github.io/pwa1/index.html": "466a0ed04bc278126c4b5da24bfdce7b2065e683"
+  }
+}
