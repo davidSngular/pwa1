@@ -1,0 +1,26 @@
+{
+  "name": "PWA 1",
+  "short_name": "PWA1",
+  "description": "PWA1!!!",
+  "icons": [{
+    "src": "assets/icon-128x128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "assets/icon.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  }, {
+    "src": "assets/icon.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }, {
+    "src": "assets/icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB"
+}
